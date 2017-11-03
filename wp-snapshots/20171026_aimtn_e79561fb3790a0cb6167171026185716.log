@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2017-10-26 18:57:28
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.26
+WORDPRESS:	4.8.2
+PHP INFO:	7.1.0 | SAPI: apache2handler
+SERVER:		Apache/2.2.31 (Unix) mod_wsgi/3.5 Python/2.7.12 PHP/7.1.0 mod_ssl/2.2.31 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 12MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20171026_aimtn_e79561fb3790a0cb6167171026185716_database.sql 
+SQL FILE SIZE: 459.72KB (470749) 
+SQL FILE TIME: 2017-10-26 18:57:28 
+SQL RUNTIME: 0.04 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Applications/MAMP/htdocs/wordpress 
+ARCHIVE FILE: 20171026_aimtn_e79561fb3790a0cb6167171026185716_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	25.05MB 
+STATS:	Dirs 173 | Files 1,618 
+SQL ADDED: 20171026_aimtn_e79561fb3790a0cb6167171026185716_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1791
+    [filename] => /Applications/MAMP/htdocs/wordpress/wp-snapshots/tmp/20171026_aimtn_e79561fb3790a0cb6167171026185716_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 9.56MB 
+ARCHIVE RUNTIME: 3.30 sec. 
+MEMORY STACK: 12MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [/Applications/MAMP/htdocs/wordpress/wp-snapshots/tmp/20171026_aimtn_e79561fb3790a0cb6167171026185716_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 459.72KB 
+Installer File: 438.32KB 
+Archive File: 9.56MB  
+
+********************************************************************************
+RECORD ID:[5]
+TOTAL PROCESS RUNTIME: 3.62 sec.
+PEAK PHP MEMORY USED: 14MB
+DONE PROCESSING => 20171026_aimtn 2017-10-26 18:57:32
+ 
